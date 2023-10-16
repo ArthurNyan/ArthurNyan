@@ -1,11 +1,11 @@
-# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arthur Nakhatakyan
+# My name is Arthur Nakhatakyan
 
 ## Web developer
 
 - 🌍  I'm based in Russia, Saint-Petersburg
 - ✉️  You can contact me at [aaryan@aaryan.ru](mailto:aaryan@aaryan.ru)
 
-### Basic skills
+### Basic skillsё
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -38,8 +38,7 @@
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.postman.com/api-documentation-tool/" target="_blank" rel="noreferrer"><img src="./assets/postman.svg"  width="36" height="36" alt="Postman">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-</a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a></a>
 </p>
 
 ### Tools
@@ -56,4 +55,5 @@
 <p align="left"> 
 <a href="https://github.com/ArthurNyan" target="_blank" rel="noreferrer"><img src="./assets/github.svg" width="32" height="32" alt="github profile" /></a>
 <a href="https://t.me/ArthurNyan" target="_blank" rel="noreferrer"><img src="./assets/telegram.svg" width="32" height="32" alt="Telegram profile" /></a>
+<a href="https://vk.com/0netab" target="_blank" rel="noreferrer"><img src="./assets/vk.svg" width="32" height="32" alt="Vk profile" /></a>
 </p>
