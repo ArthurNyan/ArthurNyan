@@ -6,7 +6,7 @@
 
 - ✉️  You can contact me at [aaryan@aaryan.ru](mailto:aaryan@aaryan.ru).
 
-- 🏛️  Hi! Little information about myself. I am <span id="age"></span>, at the moment I am studying at the Herzen State Pedagogical University of Russia in the direction of "Informatics and Computing Technology".
+- 🏛️  Hi! Little information about myself. I am 20, at the moment I am studying at the Herzen State Pedagogical University of Russia in the direction of "Informatics and Computing Technology".
 
 - 🐛 Striving for continuous improvement and learning new technologies, as well as striving for excellence in professional areas of interest.
 
@@ -62,10 +62,3 @@
 <a href="https://t.me/ArthurNyan" target="_blank" rel="noreferrer"><img src="./assets/telegram.svg" width="32" height="32" alt="Telegram profile" /></a>
 <a href="https://vk.com/0netab" target="_blank" rel="noreferrer"><img src="./assets/vk.svg" width="32" height="32" alt="Vk profile" /></a>
 </p>
-
-<script>
-  const birthday = new Date('2004-03-07');
-  const currentDate = new Date();
-  const age = Math.floor((currentDate - birthday) / (1000 * 60 * 60 * 24 * 365.25));
-  document.getElementById('age').innerHTML = age;
-</script>
